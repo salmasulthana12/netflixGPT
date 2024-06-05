@@ -1,9 +1,9 @@
-import './App.css';
+import Body from './components/Body';
 
 function App() {
   return (
-    <div className="text-3xl text-green-800">
-    Netflix Gpt
+    <div>
+      <Body/>
     </div>
   );
 }
